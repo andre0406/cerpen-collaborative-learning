@@ -231,6 +231,23 @@ body {
   padding: 0 2rem;
 }
 
+.story .row .caption {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 5rem;
+  justify-content: center;
+}
+
+.story .row .caption img {
+  width: 35%;
+}
+
+.story .row .caption-text {
+  text-align: center;
+  font-size: 1.2rem;
+  padding: 1rem 30% 1rem;
+}
+
 /* Media Queries */
 
 /* Laptop */
